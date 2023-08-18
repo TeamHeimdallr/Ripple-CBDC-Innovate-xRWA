@@ -1,0 +1,6 @@
+[submodule "xrwa-web"]
+	path = xrwa-web
+	url = https://github.com/TeamHeimdallr/xrwa-web
+[submodule "xrwa-server"]
+	path = xrwa-server
+	url = https://github.com/TeamHeimdallr/xrwa-server
